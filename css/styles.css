@@ -1,0 +1,29 @@
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: #4FC1E9;
+  color: white;
+}
+.jumbotron {
+  text-align: center;
+  background-color: #48CFAD;
+  color: white;
+}
+
+span.glyphicon {
+  font-size: 3em;
+  color: #4A89DC;
+}
+
+h5 {
+  color: #3BAFDA;
+  font-weight: bold;
+}
